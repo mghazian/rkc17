@@ -9,6 +9,11 @@ class Home extends CI_Controller {
 
 	function index()
 	{
-		$this->load->view('searchbar');
+		
+		$this->load->view('header');
+		$this->load->view('navbar');
+		$this->load->view('footer');
+		
+		//$this->load->view ('test');
 	}
 }
