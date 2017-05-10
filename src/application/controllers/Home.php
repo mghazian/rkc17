@@ -9,12 +9,16 @@ class Home extends CI_Controller {
 
 	function index()
 	{
-		
 		$this->load->view('header');
 		$this->load->view('navbar');
-		$this->load->view('sidebar');
+		$this->load->view('home/sidebar');
 		$this->load->view('footer');
-		
-		//$this->load->view ('test');
+	}
+
+	function registration()
+	{
+		$this->load->view('header');
+		$this->load->view('navbar');
+		$this->load->view('footer');
 	}
 }
