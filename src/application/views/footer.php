@@ -1,5 +1,6 @@
 		<!-- /wrapper -->
-		</div>
+		<footer class="footer text-center"><b>Jodoh.in</b> by kelompok bengkel, kelas Rekayasa Kebutuhan C 2017</footer>
+    </div>
 	<!-- Close the body and html tag -->
   </body>
 	<!-- ------------------------------------------------ -->
