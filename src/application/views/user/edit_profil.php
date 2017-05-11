@@ -5,7 +5,7 @@
                 <h4 class="page-title">Profil</h4> </div>
             <div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
                 <ol class="breadcrumb">
-                    <li><a href="#">Profil</a></li>
+                    <li><a href="#">Profil > Edit Profil</a></li>
                 </ol>
             </div>
             <!-- /.col-lg-12 -->
@@ -25,7 +25,6 @@
                                 <a href="javascript:void(0)"><img src="<?php echo base_url ('assets/ample-admin-lite/plugins/images/users/varun.jpg'); ?>" class="thumb-lg img-circle" alt="img"></a>
                                 <h4 class="text-white">Nama Pengguna</h4>
                                 <h5 class="text-white">Laki Laki. 24 Tahun</h5>
-                                <a href="<?php echo base_url ('User/edit_profil'); ?>" style="color:white;"> <h3><b>Edit Profil</b></h3> </a>
                             </div>
                         </div>
                     </div>
@@ -70,6 +69,11 @@
                                         <option>Canada</option>
                                         <option>Thailand</option>
                                     </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-12">
+                                    <button class="btn btn-success">Update Profil</button>
                                 </div>
                             </div>
                         </form>

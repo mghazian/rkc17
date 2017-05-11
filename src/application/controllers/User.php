@@ -23,6 +23,14 @@ class User extends CI_Controller {
 		$this->load->view('User/profil');
 		$this->load->view('footer');
 	}
+	function edit_profil()
+	{
+		$this->load->view('header');
+		$this->load->view('User/navbar');
+		$this->load->view('User/left_sidebar');
+		$this->load->view('User/edit_profil');
+		$this->load->view('footer');
+	}
 	function pencarian()
 	{
 		$this->load->view('header');
