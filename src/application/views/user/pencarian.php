@@ -21,8 +21,8 @@
                 <div class="white-box">
                     <h3 class="box-title">lorem ipsoem</h3>
                     <ul class="">
-                        <li>nama orang</li>
-                        <li>nama orang</li>
+                        <li><a href="<?php echo base_url ('User/profil_lain'); ?>">nama orang<a/></li>
+                        <li><a href="<?php echo base_url ('User/profil_lain'); ?>">nama orang<a/></li>
                     </ul>
                 </div>
             </div>
