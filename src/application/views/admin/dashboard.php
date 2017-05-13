@@ -50,9 +50,9 @@
                                     <th>Tanggal</th>
                                     <th>Pengirim</th>
                                     <th>Status Undangan</th>
-                                    <th>Moderator</th>
+                                    <th>Mediator</th>
                                     <th>Status Taaruf</th>
-                                    <th>Catatan dari moderator</th>
+                                    <th>Catatan dari mediator</th>
                                 </tr>
                             </thead>
                             <tbody>

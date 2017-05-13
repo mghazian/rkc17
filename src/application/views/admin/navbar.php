@@ -10,7 +10,7 @@
         </li>
         <li>
             <a class="profile-pic" href="#">
-                <img src="<?php echo base_url ('assets/ample-admin-lite/plugins/images/users/varun.jpg'); ?>" alt="user-img" width="36" class="img-circle">
+                <img src="<?php echo base_url ('assets/admins/images/nicolaus-copernicus.jpeg'); ?>" alt="user-img" width="36" class="img-circle">
                 <b class="hidden-xs">Hi, Nicolaus</b>
             </a>
         </li>
