@@ -1,5 +1,5 @@
 		<!-- /wrapper -->
-		<footer class="footer text-center"><b>Jodoh.in</b> by kelompok bengkel, kelas Rekayasa Kebutuhan C 2017</footer>
+    <footer style="left:0px" class="footer text-center"><b>Jodoh.in</b> by kelompok bengkel, kelas Rekayasa Kebutuhan C 2017</footer>
     </div>
 	<!-- Close the body and html tag -->
   </body>
@@ -26,5 +26,4 @@
   <!-- Custom Theme JavaScript -->
   <script src="<?php echo base_url ('assets/ample-admin-lite/html/js/custom.min.js'); ?>"></script>
   <script src="<?php echo base_url ('assets/ample-admin-lite/html/js/dashboard1.js'); ?>"></script>
-  <script src="<?php echo base_url ('assets/ample-admin-lite/plugins/bower_components/toast-master/js/jquery.toast.js'); ?>"></script>
 </html>

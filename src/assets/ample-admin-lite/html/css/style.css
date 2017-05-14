@@ -12584,3 +12584,12 @@ ul.pro-amenities li span i {
         width: 300px
     }
 }
+
+.user-label {
+    background-color: #e4e7ea;
+    color: black;
+    letter-spacing: .05em;
+    border-radius: 60px;
+    padding: 6px 20px 6px;
+    font-weight: 500;
+}
