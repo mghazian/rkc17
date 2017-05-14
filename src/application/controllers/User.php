@@ -9,14 +9,50 @@ class User extends CI_Controller {
 
 	function index()
 	{
-		
-		//$this->load->view('header');
-		//$this->load->view('navbar');
-
-		$this->load->view('isi');
-
-		//$this->load->view('footer');
-		
-		//$this->load->view ('test');
+		$this->load->view('header');
+		$this->load->view('User/navbar');
+		$this->load->view('User/left_sidebar');
+		$this->load->view('User/dashboard');
+		$this->load->view('footer');
+	}
+	function profil()
+	{
+		$this->load->view('header');
+		$this->load->view('User/navbar');
+		$this->load->view('User/left_sidebar');
+		$this->load->view('User/profil');
+		$this->load->view('footer');
+	}
+	function edit_profil()
+	{
+		$this->load->view('header');
+		$this->load->view('User/navbar');
+		$this->load->view('User/left_sidebar');
+		$this->load->view('User/edit_profil');
+		$this->load->view('footer');
+	}
+	function profil_lain()
+	{
+		$this->load->view('header');
+		$this->load->view('User/navbar');
+		$this->load->view('User/left_sidebar');
+		$this->load->view('User/profil_lain');
+		$this->load->view('footer');
+	}
+	function pencarian()
+	{
+		$this->load->view('header');
+		$this->load->view('User/navbar');
+		$this->load->view('User/left_sidebar');
+		$this->load->view('User/pencarian');
+		$this->load->view('footer');
+	}
+	function pengaturan()
+	{
+		$this->load->view('header');
+		$this->load->view('User/navbar');
+		$this->load->view('User/left_sidebar');
+		$this->load->view('User/pengaturan');
+		$this->load->view('footer');
 	}
 }

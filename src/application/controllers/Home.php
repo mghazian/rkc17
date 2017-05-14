@@ -9,12 +9,25 @@ class Home extends CI_Controller {
 
 	function index()
 	{
-		
 		$this->load->view('header');
-		$this->load->view('navbar');
-		$this->load->view('sidebar');
+		$this->load->view('home/navbar');
+		$this->load->view('home/homepage');
 		$this->load->view('footer');
-		
-		//$this->load->view ('test');
+	}
+
+	function registrasi()
+	{
+		$this->load->view('header');
+		$this->load->view('home/navbar');
+		$this->load->view('home/registrasi');
+		$this->load->view('footer');
+	}
+
+	function login()
+	{
+		$this->load->view ('header');
+		$this->load->view ('home/navbar');
+		$this->load->view ('home/login');
+		$this->load->view ('footer');
 	}
 }
