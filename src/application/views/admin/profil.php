@@ -21,11 +21,13 @@
                 <div class="white-box">
                         <div class="overlay-box">
                             <div class="admin-content">
-                            <div class="span align=center">
+                           <div class="">
+                                 <span align="center">
                                 <a href="javascript:void(0)"><img src="<?php echo base_url ('assets/admins/images/nicolaus-copernicus.jpeg'); ?>" class="thumb-lg img-circle" alt="img"></a>
                                 <h4 class="text-black">Admin Nicolaus</h4>
                                 <h5 class="text-black">Laki Laki. 30 Tahun</h5>
                                 <a href="<?php echo base_url ('Admin/edit_profil'); ?>" style="color:white;"> <h3><b>Edit Profil</b></h3> </a>
+                            </span>
                             </div>
                             </div>
                         </div>
@@ -42,12 +44,12 @@
                             <div class="form-group">
                                 <label class="col-md-12">Nama Lengkap</label>
                                 <div class="col-md-12">
-                                    <input type="text" placeholder="Johnathan Doe" class="form-control form-control-line"> </div>
+                                    <input type="text" placeholder="Nicolaus Copernicus" class="form-control form-control-line"> </div>
                             </div>
                             <div class="form-group">
                                 <label for="example-email" class="col-md-12">Email</label>
                                 <div class="col-md-12">
-                                    <input type="email" placeholder="johnathan@admin.com" class="form-control form-control-line" name="example-email" id="example-email"> </div>
+                                    <input type="email" placeholder="nicolaus@admin.com" class="form-control form-control-line" name="example-email" id="example-email"> </div>
                             </div>
                             <div class="form-group">
                                 <label class="col-md-12">Alamat</label>
