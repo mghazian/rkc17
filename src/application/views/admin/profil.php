@@ -22,12 +22,10 @@
                         <div class="overlay-box">
                             <div class="admin-content">
                            <div class="">
-                                 <span align="center">
-                                <a href="javascript:void(0)"><img src="<?php echo base_url ('assets/admins/images/nicolaus-copernicus.jpeg'); ?>" class="thumb-lg img-circle" alt="img"></a>
-                                <h4 class="text-black">Admin Nicolaus</h4>
-                                <h5 class="text-black">Laki Laki. 30 Tahun</h5>
+                                <a href="javascript:void(0)"> <span align="center"><img src="<?php echo base_url ('assets/admins/images/nicolaus-copernicus.jpeg'); ?>" class="thumb-lg img-circle" alt="img"></span></a>
+                                <h4 class="text-black"> <span align="center">Admin Nicolaus </span></h4>
+                                <h5 class="text-black"> <span align="center">Laki Laki. 30 Tahun</span></h5>
                                 <a href="<?php echo base_url ('Admin/edit_profil'); ?>" style="color:white;"> <h3><b>Edit Profil</b></h3> </a>
-                            </span>
                             </div>
                             </div>
                         </div>
