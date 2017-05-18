@@ -24,8 +24,8 @@
                             <div class="user-content">
                                 <a href="javascript:void(0)"><img src="<?php echo base_url ('assets/ample-admin-lite/plugins/images/users/varun.jpg'); ?>" class="thumb-lg img-circle" alt="img"></a>
                                 <h4 class="text-white">Nama Pengguna</h4>
-                                <h5 class="text-white">Laki Laki. 24 Tahun</h5>
-                                <a href="<?php echo base_url ('User/edit_profil'); ?>" style="color:white;"> <h3><b>Edit Profil</b></h3> </a>
+                                <h5 class="text-white">Laki-laki. 24 Tahun</h5>
+                                <a href="<?php echo base_url ('User/edit_profil'); ?>" style="color:white;background-color:white;width:20px;"> <h3><b>Edit Profil</b></h3> </a>
                             </div>
                         </div>
                     </div>
@@ -35,43 +35,62 @@
                     <div class="white-box">
                         <form class="form-horizontal form-material">
                             <div class="form-group">
-                                <label class="col-md-12">Full Name</label>
+                            <div class="col-md-12">
+                                <b>Nama lengkap</b>
                                 <div class="col-md-12">
-                                    <input type="text" placeholder="Johnathan Doe" class="form-control form-control-line"> </div>
-                            </div>
-                            <div class="form-group">
-                                <label for="example-email" class="col-md-12">Email</label>
-                                <div class="col-md-12">
-                                    <input type="email" placeholder="johnathan@admin.com" class="form-control form-control-line" name="example-email" id="example-email"> </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="col-md-12">Password</label>
-                                <div class="col-md-12">
-                                    <input type="password" value="password" class="form-control form-control-line"> </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="col-md-12">Phone No</label>
-                                <div class="col-md-12">
-                                    <input type="text" placeholder="123 456 7890" class="form-control form-control-line"> </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="col-md-12">Message</label>
-                                <div class="col-md-12">
-                                    <textarea rows="5" class="form-control form-control-line"></textarea>
+                                    <p>John Doe</p><br>
                                 </div>
-                            </div>
+                            </div></div>
                             <div class="form-group">
-                                <label class="col-sm-12">Select Country</label>
-                                <div class="col-sm-12">
-                                    <select class="form-control form-control-line">
-                                        <option>London</option>
-                                        <option>India</option>
-                                        <option>Usa</option>
-                                        <option>Canada</option>
-                                        <option>Thailand</option>
-                                    </select>
+                            <div class="col-md-12">
+                                <b>Nama panggilan</b>
+                                <div class="col-md-12">
+                                    <p>John</p><br>
                                 </div>
-                            </div>
+                            </div></div>
+                            <div class="form-group">
+                            <div class="col-md-12">
+                                <b>Umur</b>
+                                <div class="col-md-12">
+                                    <p>24</p><br>
+                                </div>
+                            </div></div>
+                            <div class="form-group">
+                            <div class="col-md-12">
+                                <b>Tempat lahir</b>
+                                <div class="col-md-12">
+                                    <p>Kediri</p><br>
+                                </div>
+                            </div></div>
+                            <div class="form-group">
+                            <div class="col-md-12">
+                                <b>Tanggal lahir</b>
+                                <div class="col-md-12">
+                                    <p>20 Juli 1996</p><br>
+                                </div>
+                            </div></div>
+                            <div class="form-group">
+                            <div class="col-md-12">
+                                <b>Asal</b>
+                                <div class="col-md-12">
+                                    <p>Surabaya</p><br>
+                                </div>
+                            </div></div>
+                            <div class="form-group">
+                            <div class="col-md-12">
+                                <b>Domisili</b>
+                                <div class="col-md-12">
+                                    <p>Surabaya</p><br>
+                                </div>
+                            </div></div>
+                            <div class="form-group">
+                            <div class="col-md-12">
+                                <b>Pekerjaan</b>
+                                <div class="col-md-12">
+                                    <p>Dosen</p><br>
+                                </div>
+                            </div></div>
+
                         </form>
                     </div>
                 </div>

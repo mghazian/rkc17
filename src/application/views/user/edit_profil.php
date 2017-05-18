@@ -24,7 +24,7 @@
                             <div class="user-content">
                                 <a href="javascript:void(0)"><img src="<?php echo base_url ('assets/ample-admin-lite/plugins/images/users/varun.jpg'); ?>" class="thumb-lg img-circle" alt="img"></a>
                                 <h4 class="text-white">Nama Pengguna</h4>
-                                <h5 class="text-white">Laki Laki. 24 Tahun</h5>
+                                <h5 class="text-white">Laki-laki. 24 Tahun</h5>
                             </div>
                         </div>
                     </div>
@@ -34,48 +34,59 @@
                     <div class="white-box">
                         <form class="form-horizontal form-material">
                             <div class="form-group">
-                                <label class="col-md-12">Full Name</label>
-                                <div class="col-md-12">
-                                    <input type="text" placeholder="Johnathan Doe" class="form-control form-control-line"> </div>
-                            </div>
-                            <div class="form-group">
-                                <label for="example-email" class="col-md-12">Email</label>
-                                <div class="col-md-12">
-                                    <input type="email" placeholder="johnathan@admin.com" class="form-control form-control-line" name="example-email" id="example-email"> </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="col-md-12">Password</label>
-                                <div class="col-md-12">
-                                    <input type="password" value="password" class="form-control form-control-line"> </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="col-md-12">Phone No</label>
-                                <div class="col-md-12">
-                                    <input type="text" placeholder="123 456 7890" class="form-control form-control-line"> </div>
-                            </div>
-                            <div class="form-group">
-                                <label class="col-md-12">Message</label>
-                                <div class="col-md-12">
-                                    <textarea rows="5" class="form-control form-control-line"></textarea>
+                                <label class="col-md-12">Ubah foto</label>
+                                <div class="col-md-12"> 
+                                    <input type="file" class="image-uploads" name="media[]" multiple accept=".jpg,.jpeg,.png,.gif" />
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label class="col-sm-12">Select Country</label>
-                                <div class="col-sm-12">
-                                    <select class="form-control form-control-line">
-                                        <option>London</option>
-                                        <option>India</option>
-                                        <option>Usa</option>
-                                        <option>Canada</option>
-                                        <option>Thailand</option>
-                                    </select>
+                                <label class="col-md-12">Nama lengkap</label>
+                                <div class="col-md-12">
+                                    <input type="text" placeholder="John Doe" class="form-control form-control-line"> </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="example-email" class="col-md-12">Nama panggilan</label>
+                                <div class="col-md-12">
+                                    <input type="email" placeholder="John" class="form-control form-control-line" name="example-email" id="example-email"> </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-12">Umur</label>
+                                <div class="col-md-12">
+                                    <input type="email" placeholder="24" class="form-control form-control-line" name="example-email" id="example-email"> </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-12">Tempat lahir</label>
+                                <div class="col-md-12">
+                                    <input type="email" placeholder="Kediri" class="form-control form-control-line" name="example-email" id="example-email"> </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-12">Tanggal lahir</label>
+                                <div class="col-md-12">
+                                    <input type="email" placeholder="20 Juli 1996" class="form-control form-control-line" name="example-email" id="example-email"> 
                                 </div>
                             </div>
                             <div class="form-group">
-                                <div class="col-sm-12">
-                                    <button class="btn btn-success">Update Profil</button>
+                                <label class="col-md-12">Asal</label>
+                                <div class="col-md-12">
+                                    <input type="email" placeholder="Surabaya" class="form-control form-control-line" name="example-email" id="example-email"> </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-12">Domisili</label>
+                                <div class="col-md-12">
+                                    <input type="email" placeholder="Surabaya" class="form-control form-control-line" name="example-email" id="example-email"> </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-md-12">Pekerjaan</label>
+                                <div class="col-md-12">
+                                    <input type="email" placeholder="Dosen" class="form-control form-control-line" name="example-email" id="example-email"> </div>
+                            </div>
+
+                            <div class="form-group pull-right">
+                                <div class="col-sm-12 ">
+                                    <button class="btn btn-success" href="<?php echo base_url ('User/profil'); ?>">Update Profil</button>
                                 </div>
                             </div>
+                            
                         </form>
                     </div>
                 </div>
