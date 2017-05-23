@@ -1,7 +1,9 @@
 <div class="container-fluid">
+	<br>
 	<div class="row">
 		<center><b><h1>Registrasi</h1></b></center>
 	</div>
+	<br>
 	<form class="form" method="POST" action="">
 		<div class="row" style="margin-left: 30px; margin-right: 30px">
 			<div class="col-sm-6 b-r">
@@ -66,6 +68,14 @@
 					<label><i>Nomor Telepon</i></label>
 					<input type="text" name="telepon" placeholder="+62xxxxxxxx atau 08xxxxxxxx" class="form-control">
 				</div>
+				<hr>
+				<h3 style="color:#695"><b>Foto</b></h3>
+				<div class="form-group">
+                    <label class="col-md-12">Upload foto</label>
+                    <div class="col-md-12"> 
+                        <input type="file" class="image-uploads" name="media[]" multiple accept=".jpg,.jpeg,.png,.gif" />
+                    </div>
+                </div>
 			</div>
 		</div>
 		<div class="row" style="margin-bottom:100px">
