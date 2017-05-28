@@ -34,6 +34,7 @@
                                     <th>Domisili</th>
                                     <th>Email</th>
                                     <th>No Telp</th>
+                                    <th>Kelola</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -44,6 +45,7 @@
                                     <td class="txt-oflo">Solo</td>
                                     <td class="txt-oflo">xyz@domain.com</td>
                                     <td class="txt-oflo">+62988696969</td>
+                                    <td class=""> <button type="button">Ubah</button> <button type="button">Hapus</button></td>
                                 </tr>
                                 <tr>
                                     <td class="txt-oflo">MD002</td>
@@ -52,13 +54,16 @@
                                     <td class="txt-oflo">Surabaya</td>
                                     <td class="txt-oflo">abc@domain.com</td>
                                     <td class="txt-oflo">+62988101010</td>
-                                    <tr>
+                                    <td class=""> <button type="button">Ubah</button> <button type="button">Hapus</button></td>
+                                </tr>
+                                <tr>
                                     <td class="txt-oflo">MD003</td>
                                     <td class="txt-oflo">Ryuga Hideki</td>
                                     <td class="txt-oflo">10 Agustus 1985</td>
                                     <td class="txt-oflo">Jakarta</td>
                                     <td class="txt-oflo">hij@domain.com</td>
                                     <td class="txt-oflo">+62988303030</td>
+                                    <td class=""> <button type="button">Ubah</button> <button type="button">Hapus</button></td>
                                 </tr>
                                 </tr>
                             </tbody>
