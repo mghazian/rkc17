@@ -56,10 +56,11 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label class="col-md-12">Email</label>
+                                <label class="col-md-12">Tanggal Lahir</label>
                                 <div class="col-md-12">
-                                    <input type="text" placeholder="nicolaus@admin.com" class="form-control form-control-line" name="email" id="admin-email"> </div>
+                                    <input type="text" placeholder="DD-MM-YYYY" class="form-control form-control-line" name="dob" id="admin-dob"> </div>
                             </div>
+
                             <div class="form-group">
                                 <label class="col-md-12">Alamat</label>
                                 <div class="col-md-12">

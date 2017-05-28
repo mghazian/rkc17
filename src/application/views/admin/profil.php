@@ -52,6 +52,14 @@
                             </div>
                             <div class="form-group">
                                 <div class="col-md-12">
+                                    <b>Tanggal Lahir</b>
+                                    <div class="col-md-12">
+                                        <p>07-04-1987</p><br>
+                                     </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-12">
                                     <b>Email</b>
                                     <div class="col-md-12">
                                         <p>nicolaus@admin.com</p><br>
