@@ -2,7 +2,7 @@
 	<div class="row">
 		<div style="width: 300px; margin-right: 5%" class="pull-right">
 			<h2>Login</h2>
-			<form class="form" method="POST" action="">
+			<form class="form" method="POST" action="<?php echo base_url ('user'); ?>">
 				<div class="form-group">
 					<label>Username</label>
 					<input type="text" id="username" name="username" class="form-control">
