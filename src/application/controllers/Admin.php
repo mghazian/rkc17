@@ -48,6 +48,14 @@ class Admin extends CI_Controller {
 		$this->load->view('Admin/profil');
 		$this->load->view('footer');
 	}
+	function statistik()
+	{
+		$this->load->view('header');
+		$this->load->view('Admin/navbar');
+		$this->load->view('Admin/left_sidebar');
+		$this->load->view('Admin/statistik');
+		$this->load->view('footer');
+	}
 	function edit_profil()
 	{
 		$this->load->view('header');
