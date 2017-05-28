@@ -53,6 +53,82 @@
                                         <td class="txt-oflo">5</td>
                                         <td class="txt-oflo">1</td>
                                     </tr>
+                                    <tr>
+                                        <td class="txt-oflo">Maret</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">April</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">Mei</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">Juni</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">Juli</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">Agustus</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">September</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr><tr>
+                                        <td class="txt-oflo">Oktober</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">November</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">Desember</td>
+                                        <td class="txt-oflo">20</td>
+                                        <td class="txt-oflo">14</td>
+                                        <td class="txt-oflo">5</td>
+                                        <td class="txt-oflo">1</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="txt-oflo">Total</td>
+                                        <td class="txt-oflo">235</td>
+                                        <td class="txt-oflo">164</td>
+                                        <td class="txt-oflo">60</td>
+                                        <td class="txt-oflo">11</td>
+                                    </tr>
                             </tbody>
                         </table>
                     </div>
