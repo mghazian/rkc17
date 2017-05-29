@@ -16,13 +16,13 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="white-box">
-                                <a href="<?php echo base_url ('Admin/manage_user'); ?>">Kelola User Taaruf</a>
+                                <a href="<?php echo base_url ('Admin/manage_user'); ?>"><p align="center"><button type="button" class="btn btn-info">KELOLA USER TA'ARUF</button></p></a>
                                 <br>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="white-box">        
-                                <a href="<?php echo base_url ('Admin/manage_mediator'); ?>">Kelola Mediator Taaruf</a>
+                                <a href="<?php echo base_url ('Admin/manage_mediator'); ?>"><p align="center"><button type="button" class="btn btn-info">KELOLA MEDIATOR TA'ARUF</button></p></a>
                                 </br>
                             </div>
                         </div>
