@@ -32,12 +32,12 @@ class Admin extends CI_Controller {
 		$this->load->view('Admin/manage_mediator');
 		$this->load->view('footer');
 	}
-	function add_mediator()
+	function tambah_mediator()
 	{
 		$this->load->view('header');
 		$this->load->view('Admin/navbar');
 		$this->load->view('Admin/left_sidebar');
-		$this->load->view('Admin/add_mediator');
+		$this->load->view('Admin/tambah_mediator');
 		$this->load->view('footer');
 	}
 	function profil()

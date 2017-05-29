@@ -20,7 +20,7 @@
                 <div class="white-box">
                      <div class="form-group pull-right">
                                 <div class="col-sm-12 ">
-                                    <button class="btn btn-success" href="<?php echo base_url ('Admin/add_mediator'); ?>">+Tambah Mediator</button>
+                                    <a href="<?php echo base_url ('Admin/tambah_mediator'); ?>" class="btn btn-success" role="button">+Tambahkan Mediator</a>
                                 </div>
                             </div>
                     <h3 class="box-title">Daftar Mediator</h3>
