@@ -25,7 +25,7 @@
                                 <a href="javascript:void(0)"> <p align="center"><img src="<?php echo base_url ('assets/admins/images/nicolaus-copernicus.jpeg'); ?>" class="thumb-lg img-circle" alt="img"></p></a>
                                 <h4 class="text-black"> <p align="center">Admin Nicolaus </p></h4>
                                 <h5 class="text-black"> <p align="center">Laki Laki. 30 Tahun</p></h5>
-                                <a href="<?php echo base_url ('Admin/edit_profil'); ?>" style="color:white;"> <h3><b><p align="center">Edit Profil</p></b></h3> </a>
+                                <a href="<?php echo base_url ('Admin/edit_profil'); ?>" style="color:white;"> <h5><b><p align="center"><button type="button" class="btn btn-warning">Edit Profil</button></p></b></h5></a>
                             </div>
                             </div>
                         </div>
