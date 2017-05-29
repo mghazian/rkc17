@@ -30,6 +30,8 @@
                                     <th>Asal</th>
                                     <th>Domisili</th>
                                     <th>Pekerjaan</th>
+                                    <th>Status</th>
+                                    <th>Kelola</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -41,6 +43,8 @@
                                     <td class="txt-oflo">Solo</td>
                                     <td class="txt-oflo">Solo</td>
                                     <td class="txt-oflo">Karyawan</td>
+                                    <td class="txt-oflo"><span class="label label-default">Kosong</span></td>
+                                    <td class="txt-oflo"><button type="button">Jodohkan</button> </td>
                                 </tr>
                                 <tr>
                                     <td class="txt-oflo">Latifah Nur</td>
@@ -50,16 +54,30 @@
                                     <td class="txt-oflo">Surabaya</td>
                                     <td class="txt-oflo">Jakarta</td>
                                     <td class="txt-oflo">Kontraktor</td>
+                                    <td class="txt-oflo"><span class="label label-danger">Meminta ta'aruf</span></td>
+                                    <td class="txt-oflo"><button type="button">Jodohkan</button> </td>
                                 </tr>
                                 <tr>
                                     <td class="txt-oflo">Sulton Ramadan</td>
                                     <td class="txt-oflo">25</td>
                                     <td class="txt-oflo">Surabaya</td>
-                                    <td class="txt-oflo">9 Juni 1991</td>
-                                    <td class="txt-oflo">Surabaya</td>
+                                    <td class="txt-oflo">09 Juni 1991</td>
+                                    <td class="txt-oflo">Solo</td>
                                     <td class="txt-oflo">Surabaya</td>
                                     <td class="txt-oflo">Guru</td>
-                                    
+                                    <td class="txt-oflo"><span class="label label-primary">Menunggu jawaban</span></td>
+                                    <td class="txt-oflo"><button type="button">Batalkan Jodoh</button> </td>
+                                </tr>
+                                <tr>
+                                    <td class="txt-oflo">Wiwin Winarti</td>
+                                    <td class="txt-oflo">24</td>
+                                    <td class="txt-oflo">Jakarta</td>
+                                    <td class="txt-oflo">18 April 1993</td>
+                                    <td class="txt-oflo">Surabaya</td>
+                                    <td class="txt-oflo">Jakarta</td>
+                                    <td class="txt-oflo">Guru</td>
+                                    <td class="txt-oflo"><span class="label label-success">Disetujui</span></td>
+                                    <td class="txt-oflo"><button type="button">Selesai</button> </td>
                                 </tr>
                             </tbody>
                         </table>
