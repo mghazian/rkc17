@@ -12,6 +12,7 @@
             <a class="profile-pic" href="#">
                 <img src="<?php echo base_url ('assets/admins/images/nicolaus-copernicus.jpeg'); ?>" alt="user-img" width="36" class="img-circle">
                 <b class="hidden-xs">Hi, Nicolaus</b>
+                <li><a href="<?php echo base_url ('home/login'); ?>">Logout</a></li>
             </a>
         </li>
       <ul>
