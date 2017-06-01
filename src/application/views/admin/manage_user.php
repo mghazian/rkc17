@@ -10,15 +10,10 @@
             </div>
             <div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
                 <ol class="breadcrumb">
-                    <li><a href="#">Pencarian</a></li>
+                    <!--li><a href="#">Pencarian</a></li-->
                     <!--<label></label>-->
                     <input type="text" id="search" name="search" class="form-control">
-                     <button type="button">Cari</button>
-                </ol>
-            </div>
-            <div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
-                <ol class="breadcrumb">
-                   
+                    <button type="button">Cari</button>
                 </ol>
             </div>
             <!--<div class="col-lg-9 col-sm-8 col-md-8 col-xs-12">
