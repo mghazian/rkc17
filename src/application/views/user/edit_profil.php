@@ -32,7 +32,7 @@
                     <br>
                     <br>
                     <div class="white-box">
-                        <form class="form-horizontal form-material">
+                        <form class="form-horizontal form-material" method="POST" action="<?php echo base_url ('User/profil'); ?>">
                             <div class="form-group">
                                 <label class="col-md-12">Ubah foto</label>
                                 <div class="col-md-12"> 
@@ -83,7 +83,7 @@
 
                             <div class="form-group pull-right">
                                 <div class="col-sm-12 ">
-                                    <button class="btn btn-success" href="<?php echo base_url ('User/profil'); ?>">Update Profil</button>
+                                    <button class="btn btn-success">Update Profil</button>
                                 </div>
                             </div>
                             

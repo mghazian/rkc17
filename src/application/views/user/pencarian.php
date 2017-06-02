@@ -18,8 +18,16 @@
         <!-- /.row -->
         <div class="row">
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
+                <div style="padding:8px;color:black;">
+                    <form role="search" class="app-search hidden-sm hidden-xs m-r-10">
+                        <input type="text" placeholder="Search..." class="form-control"> 
+                        <a href="">
+                            <i class="fa fa-search"></i>
+                        </a> 
+                    </form>
+                </div>
                 <div class="white-box">
-                    <h3 class="box-title">lorem ipsoem</h3>
+                    
                     <ul class="">
                         <li><a href="<?php echo base_url ('User/profil_lain'); ?>">nama orang<a/></li>
                         <li><a href="<?php echo base_url ('User/profil_lain'); ?>">nama orang<a/></li>
