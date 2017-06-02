@@ -10,6 +10,9 @@
             <li>
                 <a href="<?php echo base_url ('Admin/profil'); ?>" class="waves-effect"><i class="fa fa-user fa-fw" aria-hidden="true"></i>Profil</a>
             </li>
+             <li>
+                <a href="<?php echo base_url ('Admin/statistik'); ?>" class="waves-effect"><i class="fa fa-area-chart fa-fw" aria-hidden="true"></i>Statistik</a>
+            </li>
             <li>
                 <a href="<?php echo base_url ('Admin/pencarian'); ?>" class="waves-effect"><i class="fa fa-table fa-fw" aria-hidden="true"></i>Pencarian</a>
             </li>

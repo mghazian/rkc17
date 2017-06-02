@@ -42,26 +42,27 @@
                             <tbody>
                                 <tr>
                                     <td>20 Juli 2017</td>
-                                    <td class="txt-oflo">Alika asyifa</td>
+                                    <td class="txt-oflo">Arina</td>
                                     <td>Diterima</td>
-                                    <td class="txt-oflo">Ahmad</td>
-                                    <td class="txt-oflo">X</td>
+                                    <td class="txt-oflo">Mahmud</td>
+                                    <td class="txt-oflo">dalam proses</td>
                                     <td class="txt-oflo"></td>
                                 </tr>
                                 <tr>
-                                    <td>20 Juli 2017</td>
+                                    <td>20 Juni 2015</td>
+                                    <td class="txt-oflo">Anis</td>
+                                    <td>Diterima</td>
+                                    <td class="txt-oflo">Ali</td>
+                                    <td class="txt-oflo">X</td>
+                                    <td class="txt-oflo">Pihak akhwat tidak cocok dengan pekerjaan anda</td>
+                                </tr> 
+                                <tr>
+                                    <td>20 Juli 2014</td>
                                     <td class="txt-oflo">Alika asyifa</td>
                                     <td>Diterima</td>
                                     <td class="txt-oflo">Ahmad</td>
                                     <td class="txt-oflo">X</td>
-                                    <td class="txt-oflo"></td>
-                                </tr><tr>
-                                    <td>20 Juli 2017</td>
-                                    <td class="txt-oflo">Alika asyifa</td>
-                                    <td>Diterima</td>
-                                    <td class="txt-oflo">Ahmad</td>
-                                    <td class="txt-oflo">X</td>
-                                    <td class="txt-oflo"></td>
+                                    <td class="txt-oflo">Pihak akhwat tidak cocok dengan visi misi kedepan anda</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -99,26 +100,18 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>20 Juli 2017</td>
-                                    <td class="txt-oflo">Alika asyifa</td>
+                                    <td>20 Juli 2016</td>
+                                    <td class="txt-oflo">Awaliyah</td>
                                     <td>Diterima</td>
-                                    <td class="txt-oflo">Ahmad</td>
-                                    <td class="txt-oflo">X</td>
-                                    <td class="txt-oflo"></td>
-                                </tr>
-                                <tr>
-                                    <td>20 Juli 2017</td>
-                                    <td class="txt-oflo">Alika asyifa</td>
-                                    <td>Diterima</td>
-                                    <td class="txt-oflo">Ahmad</td>
+                                    <td class="txt-oflo">Adika</td>
                                     <td class="txt-oflo">X</td>
                                     <td class="txt-oflo"></td>
                                 </tr><tr>
-                                    <td>20 Juli 2017</td>
-                                    <td class="txt-oflo">Alika asyifa</td>
-                                    <td>Diterima</td>
-                                    <td class="txt-oflo">Ahmad</td>
-                                    <td class="txt-oflo">X</td>
+                                    <td>20 April 2015</td>
+                                    <td class="txt-oflo">Siti hayat</td>
+                                    <td>Ditolak</td>
+                                    <td class="txt-oflo"></td>
+                                    <td class="txt-oflo"></td>
                                     <td class="txt-oflo"></td>
                                 </tr>
                             </tbody>
