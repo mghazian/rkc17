@@ -18,14 +18,14 @@
         <!-- /.row -->
         <div class="row">
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
-                <div class="white-box">
+                <div class="white-box" height="100%;">
                     <div class="user-bg"> <img width="100%" alt="user" src="<?php echo base_url ('assets/ample-admin-lite/plugins/images/large/img1.jpg'); ?>">
                         <div class="overlay-box">
                             <div class="user-content">
                                 <a href="javascript:void(0)"><img src="<?php echo base_url ('assets/ample-admin-lite/plugins/images/users/varun.jpg'); ?>" class="thumb-lg img-circle" alt="img"></a>
                                 <h4 class="text-white">Nama Pengguna</h4>
                                 <h5 class="text-white">Laki-laki. 24 Tahun</h5>
-                                <a href="<?php echo base_url ('User/edit_profil'); ?>" style="color:white;background-color:white;width:20px;"> <h3><b>Edit Profil</b></h3> </a>
+                                <a href="<?php echo base_url ('User/edit_profil'); ?>" style="color:white;background-color:black;width:80px;"> <h3><b>Edit Profil</b></h3> </a>
                             </div>
                         </div>
                     </div>

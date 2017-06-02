@@ -20,6 +20,7 @@
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                 <div class="white-box">
                     <h3 class="box-title">L o R e M   i P s U m</h3>
+                    <a href="#" style="font-color:red;">hapus akun</a>
                 </div>
             </div>
         </div>

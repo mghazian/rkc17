@@ -4,7 +4,7 @@
 		<center><b><h1>Registrasi</h1></b></center>
 	</div>
 	<br>
-	<form class="form" method="POST" action="">
+	<form class="form" method="POST" action="<?php echo base_url ('home/login'); ?>">
 		<div class="row" style="margin-left: 30px; margin-right: 30px">
 			<div class="col-sm-6 b-r">
 				<h3 style="color:#695"><b>Identitas akun</b></h3>
